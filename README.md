@@ -1,7 +1,5 @@
 # Face Expression Recognition Using Python and Jupyter
 
-![Face Expression Recognition](https://github.com/SuyashSharma1710/face_expression_recognition_in_jupyter/) 
-
 ## 📖 Project Overview
 
 This project aims to detect and classify human facial expressions using a convolutional neural network (CNN) model. The model is trained to recognize various emotions such as happy, sad, angry, surprised, and neutral in real-time using webcam or pre-recorded video feeds. This project is implemented using Python in a Jupyter Notebook environment.
