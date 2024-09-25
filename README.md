@@ -1,6 +1,6 @@
 # Face Expression Recognition Using Python and Jupyter
 
-![Face Expression Recognition](https://github.com/SuyashSharma1710/face_expression_recognition_in_jupyter/blob/main/assets/banner.png) <!-- Add a banner image if available -->
+![Face Expression Recognition](https://github.com/SuyashSharma1710/face_expression_recognition_in_jupyter/) 
 
 ## 📖 Project Overview
 
