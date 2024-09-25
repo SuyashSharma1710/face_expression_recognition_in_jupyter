@@ -38,7 +38,8 @@ Ensure you have the following tools installed on your machine:
 ```
 ### 2. Navigate to the project directory:
 ```bash
-pip install -r requirement.txt
+cd face_expression_recognition_in_jupyter
+
 ```
 
 ### 3. Install the required dependencies:
